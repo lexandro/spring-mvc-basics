@@ -11,7 +11,7 @@
 
     <modules>
         <module>01 - basic login</module>
-        <!--<module>02 - session persisted authentication</module>-->
+        <module>02 - session persisted authentication</module>
     </modules>
 
     <properties>

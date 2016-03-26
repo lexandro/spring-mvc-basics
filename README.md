@@ -7,3 +7,4 @@ A basic web application with login capabilities. After the successful authentica
 # Task 02 - session persisted authentication
 Adding authentication data to the session object
 
+
